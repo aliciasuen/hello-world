@@ -1,0 +1,13 @@
+Make a new folder (aka make directory) 
+$ mkdir <FOLDERNAME>
+
+Navigate into an existing folder (aka change directory) 
+$ cd <FOLDERNAME>
+
+List the items in a folder 
+$ ls
+
+Turn Git on for a folder 
+$ git in
+
+ 
